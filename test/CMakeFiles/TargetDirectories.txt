@@ -1,0 +1,3 @@
+/home/ys/tensorflow_test/test/obj_pthread_test/test/CMakeFiles/rebuild_cache.dir
+/home/ys/tensorflow_test/test/obj_pthread_test/test/CMakeFiles/test1.dir
+/home/ys/tensorflow_test/test/obj_pthread_test/test/CMakeFiles/edit_cache.dir

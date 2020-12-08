@@ -1,0 +1,3 @@
+/home/ys/tensorflow_test/test/obj_pthread_test/CMakeFiles/rebuild_cache.dir
+/home/ys/tensorflow_test/test/obj_pthread_test/CMakeFiles/tf_detect_crow.dir
+/home/ys/tensorflow_test/test/obj_pthread_test/CMakeFiles/edit_cache.dir
